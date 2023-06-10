@@ -203,3 +203,41 @@
   .client{
     margin-top: 14rem;
   }
+  .client img{
+    width: 75%;
+  }
+  .client h1{
+    font-family: 'Montserrat';
+    font-weight: 600;
+    color: #2F3269;
+    font-size: 41px;
+  }
+  .client p{
+    color: #2F3269;
+    margin-top: 3rem;
+  }
+  .client .btn-info{
+    background-color: #F44F1A !important;
+    color: #fff !important;
+    border: 1px solid #F44F1A !important;
+    width: 180px;
+    height: 40px;
+    margin-top: 3rem;
+  }
+  /* description */
+  .description{
+    margin-top: 9rem;
+  }
+  .description h1{
+    font-family: 'Montserrat';
+    font-weight: 600;
+    color: #2F3269;
+    font-size: 41px;
+    text-align: center;
+  }
+  .description span{
+    color: #F44F1A;
+  }
+  .description .row{
+    margin-top: 6rem;
+  }
