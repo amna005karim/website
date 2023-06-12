@@ -265,7 +265,7 @@
 
 /* Customer-says */
 .Customer {
-  margin-top: 9rem;
+  margin-top: 5rem;
 }
 
 .Customer h1 {
@@ -326,4 +326,82 @@
 .student .card .card-text{
   text-align: center;
   margin-bottom: 4rem;
+}
+/* footer */
+/* .ft{
+  background-color: #F44F1A;
+  margin-top: 9rem;
+}
+.ft .logo{
+  margin-top: 8rem;
+}
+.ft .home{
+  margin-top: 8rem;
+}
+.home ul li{
+  text-decoration: none;
+} */
+.my-{
+  background-color: #F44F1A;
+  margin-top: 9rem;
+}
+.logo{
+  font-family: Inter;
+font-size: 24px;
+font-weight: 700;
+line-height: 29px;
+letter-spacing: 0px;
+text-align: left;
+color: #fff;
+}
+ul li .p1{
+  font-family: Inter;
+font-size: 24px;
+font-weight: 400;
+line-height: 29px;
+letter-spacing: 0px;
+text-align: left;
+
+}
+.p2{
+  font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0px;
+text-align: left !important;
+
+}
+.col-lg-3 ul li a{
+  margin-top: 2rem;
+  text-decoration: none;
+}
+.fa{
+  height: 33px;
+width: 22px;
+
+border-radius: 8px;
+color: #fff;
+
+}
+.icons ul li i{
+  font-size: 22px;
+}
+.icons ul li .n1{
+  font-family: Inter;
+font-size: 18px;
+font-weight: 400;
+line-height: 22px;
+letter-spacing: 0px;
+text-align: center;
+
+} 
+.icons ul li .n2{
+  font-family: Inter;
+font-size: 18px;
+font-weight: 400;
+line-height: 22px;
+letter-spacing: 0px;
+text-align:center;
+
 }
